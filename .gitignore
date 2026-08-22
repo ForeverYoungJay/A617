@@ -1,0 +1,16 @@
+# Raw INL data and generated pixel tables/results stay on storage, not GitHub.
+*.ang
+*.spd
+*.dat
+*.ipr
+*.png
+*.tif
+*.tiff
+results/
+slice001_*.csv
+slice001_*.txt
+slice001_*.svg
+server/data/
+server/output/
+__pycache__/
+.DS_Store
